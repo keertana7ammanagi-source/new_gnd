@@ -1,0 +1,5 @@
+streamlit>=1.30.0
+pyserial>=3.5
+plotly>=5.18.0
+pandas>=2.0.0
+pytest>=8.0.0
